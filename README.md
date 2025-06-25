@@ -1,1 +1,1 @@
-# financias
+# Gerenciador de finanças
